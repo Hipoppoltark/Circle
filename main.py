@@ -4,7 +4,6 @@ from PyQt5.QtGui import QPainter, QColor
 from PyQt5 import uic
 from PyQt5.QtWidgets import QWidget, QApplication
 from random import randint
-from ui-file import Ui_Form
 
 
 class Example(QWidget, Ui_Form):
